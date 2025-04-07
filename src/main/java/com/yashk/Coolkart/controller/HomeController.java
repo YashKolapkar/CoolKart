@@ -23,4 +23,8 @@ public class HomeController {
     public String register(){
         return "register";
     }
+//    @GetMapping("/admin/")
+//    public String admin(){
+//        return "admin";
+//    }
 }
